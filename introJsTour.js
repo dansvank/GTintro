@@ -1,5 +1,5 @@
 {
-	title: 'Main Menu',
+	title: 'Main Menu Tour',
 	intro: 'Just testing...'
 },
 {
