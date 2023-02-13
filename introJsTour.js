@@ -1,4 +1,4 @@
-{
+[{
 	title: 'Even Newer Menu Tour',
 	intro: 'Just testing...'
 },
@@ -38,4 +38,4 @@
 {
 	title: 'Have a good one',
 	intro: 'Cheers!'
-}
+}]
