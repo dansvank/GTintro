@@ -1,5 +1,5 @@
 {
-	title: 'Newer Menu Tour',
+	title: 'Even Newer Menu Tour',
 	intro: 'Just testing...'
 },
 {
@@ -28,7 +28,7 @@
 },
 {
 	element: document.querySelector('.Casino'),
-	intro: 'A good list of casinos'
+	intro: 'A good list of casinos',
 	openBefore: '.Casino'
 },
 {
